@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.youtube.com/channel/UCvuMYsDfS7s-8GNfqhDVp1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/invite/qhu5GHDhwR" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/db671cecfd8a0d137a7eddd413730d5efa073182/github-contribution-grid-snake.svg)
 
