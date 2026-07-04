@@ -1,19 +1,5 @@
 ### 👋 Hola, soy Mizael
 
-<!--
-**ElMiza2k9/ElMiza2k9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Soy Developer con más de 6 años de experiencia, especializado en el desarrollo de soluciones para Minecraft, Discord y aplicaciones web. Ofrezco servicios personalizados para proyectos de cualquier tamaño.
 
 <img src="https://img.shields.io/github/stars/ElMiza2k9?color=fca903&label=%E2%AD%90%20STARS&style=for-the-badge">
@@ -26,7 +12,8 @@ Soy Developer con más de 6 años de experiencia, especializado en el desarrollo
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MAVEN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+  <img align="center" alt="MAVEN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"></div>
+
 ## Bases de Datos:
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
