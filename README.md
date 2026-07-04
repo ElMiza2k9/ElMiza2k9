@@ -29,16 +29,18 @@ Soy Developer con más de 6 años de experiencia, especializado en el desarrollo
   <img align="center" alt="MAVEN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
 ## Bases de Datos:
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</div>
+
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-</div>
+
+
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
-</div>
+
 <hr>
 
-
 <a target="_blank" href="https://www.youtube.com/channel/UCvuMYsDfS7s-8GNfqhDVp1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
 <a href="https://discord.com/invite/qhu5GHDhwR" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
 <a href="https://discord.com/invite/qhu5GHDhwR" target="_blank"><img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white&url=ElMiza2k9" target="_blank"></a> 
 
  
