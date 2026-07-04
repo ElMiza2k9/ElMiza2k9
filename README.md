@@ -1,4 +1,4 @@
-### 🚀 Hola, soy ElMiza2k9#9832
+### 👋 Hola, soy Mizael
 
 <!--
 **ElMiza2k9/ElMiza2k9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy Developer con más de 6 años de experiencia, especializado en el desarrollo de soluciones para Minecraft, Discord y aplicaciones web. Ofrezco servicios personalizados para proyectos de cualquier tamaño.
+
 <img src="https://img.shields.io/github/stars/ElMiza2k9?color=fca903&label=%E2%AD%90%20STARS&style=for-the-badge">
 
 ## Hi mi name is Mizael, and i'm working on minecraft servers, if you want anything related with
