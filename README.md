@@ -5,20 +5,28 @@ Soy Developer con más de 6 años de experiencia, especializado en el desarrollo
 <img src="https://img.shields.io/github/stars/ElMiza2k9?color=fca903&label=%E2%AD%90%20STARS&style=for-the-badge">
 
 
-<div style= "display: inline_block">
+<div style="display: inline_block">
   
 
 
-  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="MAVEN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
 
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 <img align="center" alt="TS" width="30px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-plain.svg">
 
 
@@ -35,15 +43,20 @@ Soy Developer con más de 6 años de experiencia, especializado en el desarrollo
 
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
 
+</div>
+
 <hr>
+
+<div style="display: inline_block">
 
 <a target="_blank" href="https://www.youtube.com/channel/UCvuMYsDfS7s-8GNfqhDVp1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 <a href="https://discord.com/invite/qhu5GHDhwR" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-<a href="https://discord.com/invite/qhu5GHDhwR" target="_blank"><img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white&url=ElMiza2k9" target="_blank"></a> 
+<a href="https://discord.com/invite/qhu5GHDhwR" target="_blank"><img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white&url=ElMiza2k9" target="_blank"></a>
 
 </div>
+
 
  ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/db671cecfd8a0d137a7eddd413730d5efa073182/github-contribution-grid-snake.svg)
 
