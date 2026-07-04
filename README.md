@@ -18,8 +18,6 @@ Soy Developer con más de 6 años de experiencia, especializado en el desarrollo
 
 <img src="https://img.shields.io/github/stars/ElMiza2k9?color=fca903&label=%E2%AD%90%20STARS&style=for-the-badge">
 
-## Hi mi name is Mizael, and i'm working on minecraft servers, if you want anything related with
-## minecraft, conectact me!
 
 <div style= "display: inline_block">
   <img align="center" alt="TS" width="30px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
