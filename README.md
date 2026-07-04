@@ -29,6 +29,9 @@ Here are some ideas to get you started:
   <img align="center" alt="MAVEN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
   <img align="center" alt="MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
+
+<img align="center" alt="POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
+</div>
 <hr>
 
 
