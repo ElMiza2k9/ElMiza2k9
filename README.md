@@ -22,7 +22,7 @@ Soy Developer con más de 6 años de experiencia, especializado en el desarrollo
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-plain.svg">
 
 
-</div>
+
 
 ## Bases de Datos:
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -44,5 +44,6 @@ Soy Developer con más de 6 años de experiencia, especializado en el desarrollo
 <a href="https://discord.com/invite/qhu5GHDhwR" target="_blank"><img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white&url=ElMiza2k9" target="_blank"></a> 
 
  
+</div>
  ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/db671cecfd8a0d137a7eddd413730d5efa073182/github-contribution-grid-snake.svg)
 
